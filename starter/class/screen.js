@@ -106,7 +106,6 @@ class Screen {
 
 
 
-
   static setQuitMessage(quitMessage) {
     Screen.quitMessage = quitMessage;
   }
